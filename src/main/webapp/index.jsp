@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
+    pageEncoding="ISO-8859-1"        
+%>
 <!DOCTYPE html>
 <html lang="it">
   <head>
@@ -13,7 +14,7 @@
   <body>
   
   	<jsp:include page="common/header.jsp" />
-  	<jsp:include page="home/main.jsp" />
+  	<jsp:include page="home/main.jsp" />  		  	 
   	<jsp:include page="common/footer.jsp" />
   	
   	
